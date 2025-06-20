@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 100px;
+}
+
+#dice {
+  font-size: 80px;
+  margin: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: teal;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#result {
+  margin-top: 15px;
+  font-size: 18px;
+}
